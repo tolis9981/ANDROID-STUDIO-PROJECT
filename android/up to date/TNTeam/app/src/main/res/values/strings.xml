@@ -1,0 +1,54 @@
+<resources>
+    <!--  PROGIOS  -->
+    <string name="app_name"> Hi  😀</string>
+
+<!-- Login -->
+    <string name="agency_id">1007</string>
+    <string name="agency_name">Sean Connery</string>
+    <string name="agency_address">IHU, Alexander Campus</string>
+    <string name="login_perference">
+        TNTeam.loginaoosharedPreferences_loginPrederence</string>
+    <string name="login_status">TNTeam.loginaoosharedPreferences_loginStatus</string>
+
+    <!-- T0D0: Remove or change this placeholder text -->
+
+    <string-array name="queries_array">
+
+        <item> Query 1 </item>
+        <item> Query 2 </item>
+        <item> Query 3 </item>
+        <item> Query 4 </item>
+        <item> Query 5 </item>
+        <item> Query 6 </item>
+        <item> Query 7 </item>
+        <item> Query 8 </item>
+        <item> Query 9 </item>
+        <item> Query 10</item>
+        <item> Query 11</item>
+        <item> Query 12</item>
+        <item> Query 13</item>
+        <item> Query 14</item>
+        <item> Query 15</item>
+    </string-array>
+
+    <string-array name="queries_description_array">
+
+        <item> 1. Εμφάνισε τον πίνακα Agency.</item>
+        <item> 2. Εμφάνισε tov πίνακα Trip.</item>
+        <item> 3. Εμφάνισε rov πίνακα Trip Package.</item>
+        <item> 4. Εμφανίστε τα ονόματα και τις ηλικίες όλων των ναυτικών. </item>
+        <item> 5. Εμφανίστε όλα τα στοιχεία των ναυτικών με κλιμάκια (rating) μεγαλύτερο του 7.</item>
+        <item> 6. Εμφανίστε τα ονόματα των ναυτικών που έχουν κάνει κράτηση στη βάρκα με κωδικό 103.</item>
+        <item> 7. Εμφανίστε τους κωδικούς των ναυτικών που έχουν κάνει κράτηση σε κόκκινη βάρκα.</item>
+        <item> 8. Εμφανίστε τα ονόματα των ναυτικών που έχουν κάνει κράτηση σε κόκκινη βάρκα.</item>
+        <item> 9. Εμφανίστε τις ηλικίες των ναυτικών των οποίων τα ονόματα αρχίζουν με το γράμμα Α και τελειώνουν με το γράμμα y και έχουν μήκος τουλάχιστον 4 χαρακτήρων.</item>
+        <item> 10. Εμφανίστε τα ονόματα των ναυτικών που έχουν κάνει κράτηση και σε κόκκινη και σε πράσινη βάρκα.</item>
+        <item> 11. Εμφανίστε τα ονόματα των ναυτικών που έχουν κάνει κράτηση σε κόκκινη, αλλά όχι σε πράσινη βάρκας.</item>
+        <item> 12. Εμφανίστε τα ονόματα των ναυτικών που έχουν κάνει κράτηση σε κόκκινη βάρκα (με εμφωλευμένο query).</item>
+        <item> 13. Εμφανίστε τα ονόματα των ναυτικών που έχουν κάνει κράτηση σε κόκκινη βάρκα (με εμφωλευμένο query και exists).</item>
+        <item> 14. Εμφανίστε τα ονόματα των ναυτικών και τη μέγιστη ηλικία για κάθε όνομα ναυτικού.</item>
+        <item> 15. Εμφανίστε τα ονόματα των ναυτικών που έχουν κάνει κράτηση σε χρώμα βάρκας που θα ζητείται από το χρήστη.</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello :) </string>
+</resources>

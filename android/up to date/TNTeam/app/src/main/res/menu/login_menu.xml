@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  PROGIOS  -->
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        //For delete or create a new activity with Login in toolbar
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/about"
+            android:title="About"
+                    >
+        </item>
+
+        <item
+            android:id="@+id/exit"
+            android:icon="@drawable/exit_to_app"
+            android:title="Exit">
+        </item>
+
+    </group>
+</menu>
